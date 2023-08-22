@@ -1,0 +1,54 @@
+body{
+    background-color:#090909;
+   
+
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif
+    position: relative;
+    top: 1%;
+    color: gold;
+}
+.calculator{
+    align-items: center;
+    border: 1px solid black;
+    box-shadow:  12px 12px 30px;
+    background-color: #021331;
+  
+    padding: 50px;
+    justify-content: center;
+    position: relative;
+    width: 35%; 
+    top: 20px;
+    left: 30%;
+    height: 500px;
+    
+
+
+}
+
+.inp{
+
+    position: relative;
+    top: 50px;
+    
+    
+}
+
+
+input[type="text"]{
+    position: relative;
+    left: 10%;
+    height: 40px;
+    background-color:bisque;
+    font-size:larger;
+}
+button{
+    position: relative;
+    left: 70%;
+    height: 35px;
+    width: 50px;
+    font-size: xx-large;
+    bottom: 220px;
+   
+}
